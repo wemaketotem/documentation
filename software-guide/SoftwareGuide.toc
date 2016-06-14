@@ -1,0 +1,45 @@
+\select@language {dutch}
+\contentsline {chapter}{\numberline {1}Inleiding}{3}
+\contentsline {section}{\numberline {1.1}Algemene gegevens}{4}
+\contentsline {subsection}{\numberline {1.1.1}Gegevens Tweetonig}{4}
+\contentsline {subsection}{\numberline {1.1.2}Tweetonig algemeen}{4}
+\contentsline {chapter}{\numberline {2}Opdrachtomschrijving}{7}
+\contentsline {section}{\numberline {2.1}Opdrachtomschrijving}{7}
+\contentsline {section}{\numberline {2.2}functionaliteit}{8}
+\contentsline {section}{\numberline {2.3}Aanpak}{8}
+\contentsline {chapter}{\numberline {3}Opdrachtuitvoering}{9}
+\contentsline {section}{\numberline {3.1}Onderzoek ledmatrixen}{9}
+\contentsline {section}{\numberline {3.2}Onderzoek Bluetooth}{10}
+\contentsline {section}{\numberline {3.3}Prototypen ledmatrix MAXXCOM-CHIP}{10}
+\contentsline {subsection}{\numberline {3.3.1}Programmeren arduino nano met MAXXCOM}{11}
+\contentsline {subsection}{\numberline {3.3.2}Hardware en software prototypen met MAXIM ge\~A\={}ntegreerde Chip}{12}
+\contentsline {section}{\numberline {3.4}Prototypen Bluetooth communiatie}{13}
+\contentsline {subsection}{\numberline {3.4.1}Programmeren adruino nano met Bluetooth module (inclusief android studio app ontwikkeling)}{13}
+\contentsline {subsection}{\numberline {3.4.2}Hardware prototypen Bluetooth module}{15}
+\contentsline {section}{\numberline {3.5}Programmeren led-matrix master en slave programma}{16}
+\contentsline {subsection}{\numberline {3.5.1}Master}{16}
+\contentsline {subsection}{\numberline {3.5.2}Slave}{20}
+\contentsline {section}{\numberline {3.6}Elektrotechnische schema's}{26}
+\contentsline {section}{\numberline {3.7}PCB layout}{31}
+\contentsline {section}{\numberline {3.8}Ontwerp behuizing (niet door mij gedaan)}{33}
+\contentsline {section}{\numberline {3.9}PCB productie}{34}
+\contentsline {section}{\numberline {3.10}Programmeren led-kubus toepassingssoftware}{34}
+\contentsline {chapter}{\numberline {4}Reflectie}{35}
+\contentsline {section}{\numberline {4.1}Stage situaties}{36}
+\contentsline {subsection}{\numberline {4.1.1}Stage situatie 1 (5G-Methode)}{36}
+\contentsline {subsection}{\numberline {4.1.2}Stage situatie 2 (STARR methode)}{37}
+\contentsline {section}{\numberline {4.2}Vraagstellingen Stage}{38}
+\contentsline {subsection}{\numberline {4.2.1}Voordelen TI ter boorbereiding op stage}{38}
+\contentsline {subsection}{\numberline {4.2.2}Nadelen TI ter voorbereiding op stage}{38}
+\contentsline {subsection}{\numberline {4.2.3}Sociale skills op stage}{39}
+\contentsline {subsection}{\numberline {4.2.4}Ontwikkelde vaardigheden}{40}
+\contentsline {subsection}{\numberline {4.2.5}Advies toekomstige stagiairs}{41}
+\contentsline {subsection}{\numberline {4.2.6}Toekomstige functie}{42}
+\contentsline {subsection}{\numberline {4.2.7}Afstudeerstage}{42}
+\contentsline {subsection}{\numberline {4.2.8}Sociale netwerken}{42}
+\contentsline {chapter}{\numberline {5}Conclusie/slot}{43}
+\contentsline {chapter}{\numberline {6}Bijlagen}{45}
+\contentsline {section}{\numberline {6.1}Broncode algoritme Matrix}{46}
+\contentsline {section}{\numberline {6.2}Urenverantwoording}{50}
+\contentsline {section}{\numberline {6.3}Beoordelingen}{62}
+\contentsline {section}{\numberline {6.4}Stageovereenkomst}{65}
